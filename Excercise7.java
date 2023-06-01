@@ -48,7 +48,7 @@ public class Excercise7 {
 	}
 
 	@Test
-	public void guru99Day6Assignment() throws IOException {
+	public void guru99Day7Assignment() throws IOException {
 
 		driver.get("http://live.techpanda.org/index.php/");
 		
