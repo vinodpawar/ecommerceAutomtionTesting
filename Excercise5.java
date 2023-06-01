@@ -60,7 +60,7 @@ public class Excercise5 {
 		
 		//*[@id='email_address']
 		WebElement emaiIdTextBox = driver.findElement(By.xpath("//*[@id='email_address']"));
-		emaiIdTextBox.sendKeys("johnybravo010@gmail.com");
+		emaiIdTextBox.sendKeys("johnybravo0101@gmail.com");
 		
 		//*[@id='password']
 		WebElement passwordTextBox = driver.findElement(By.xpath("//*[@id='password']"));
